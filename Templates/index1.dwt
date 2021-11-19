@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../css/Untitled-2.css" rel="stylesheet" type="text/css">
+
+
+<link href="../style1chotatcacaccauhinh.css" rel="stylesheet" type="text/css">
+<link href="../font-awesome.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+	
+<body>
+	<div class="container-fluid modau">
+		<div class="container modau1">
+			<div class="col-3 col-m logo">
+				<main><!-- TemplateBeginEditable name="index1" -->index1<!-- TemplateEndEditable -->
+				
+				</main>
+				<main></main>
+				<h1>Nguyen Kim</h1>
+			</div>
+			<buttun><i class="fa fa-bars fa-2x"</buttun>
+			<div class="col-9 thanhtimkiem">
+				<ul>
+					<li><a href="../html.html">jjjhkj</a></li>
+					<li><a href="#">jjjhkj</a></li>
+					<li><a href="#">jjjhkj</a></li>
+					<li><a href="#">jjjhkj</a></li>
+				</ul>
+			  
+		  </div>
+		</div>
+	</div>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script>
+			$(document).ready(function(){$(".btn").click(function(){$(".menu").slideToggle()})})
+		</script>
+</body>
+</html>
